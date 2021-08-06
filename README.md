@@ -1,6 +1,4 @@
 # ae-01b-covid
- 
-# ae-01a-un-votes
 
 To work on this exercise you need to have first completed the ["First Time Setup"](https://ids-s1-21.netlify.app/troubleshoot/) for the course.
 
